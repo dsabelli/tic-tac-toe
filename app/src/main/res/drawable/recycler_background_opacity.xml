@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/recycler_view_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E6FFFFFF"/> <!-- 50% transparent black -->
+    <corners android:radius="10dp"/> <!-- Optional: Add rounded corners -->
+</shape>
